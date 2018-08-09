@@ -1,5 +1,5 @@
 ﻿/*
- * Author: Valerio Gheri
+ 
  * Date: 22/07/2012
  * Description: ChatR namespace js file and viewmodels declaration
  */
